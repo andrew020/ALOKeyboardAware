@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "ALOKeyboardAware"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "Auto resizing content inset when keyboard showing."
 
   # This description is used to generate tags and improve search results.
@@ -62,7 +62,7 @@ Pod::Spec.new do |s|
   #  the deployment target. You can optionally include the target after the platform.
   #
 
-  s.platform     = :ios, "3.2"
+  s.platform     = :ios, "6.0"
 
   #  When using multiple platforms
   # s.ios.deployment_target = "5.0"
